@@ -1,0 +1,5 @@
+{
+  "apiHost": "test.smartex.io",
+  "apiPort": 443,
+  "forceSSL": true
+}
