@@ -1,8 +1,10 @@
 Smartex Node.js API Client
 ==========================
 
+[![Build Status](https://travis-ci.org/smartexio/smartex-node-client.svg)](https://travis-ci.org/bitpay/node-bitpay-client)
+
 A Node.js module and command line client for interacting with
-[Smartex's Secure API](https://smartex.io/api).
+[Smartex's Secure API](https://smartex.io).
 
 ## Getting Started
 
