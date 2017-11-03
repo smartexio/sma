@@ -6,6 +6,15 @@ A Node.js module and command line client for interacting with
 
 ## Getting Started
 
+Install using [Node Package Manager](https://www.npmjs.org/).
+
+```
+~# npm install smartex-node-client
+```
+
+If you do not use NPM to install (instead cloning this repository), you will
+need to run the following from the project root:
+
 ```
 ~# npm run setup
 ```

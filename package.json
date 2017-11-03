@@ -1,10 +1,9 @@
 {
   "name": "smartex-node-client",
   "preferGlobal": false,
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "Smartex Team <support@smartex.io>",
   "description": "",
-
   "bin": {
     "smartex": "bin/smartex.js"
   },
@@ -24,6 +23,7 @@
     "rest",
     "api",
     "eth",
+    "ethereum",
     "smart contracts",
     "iot"
   ],
